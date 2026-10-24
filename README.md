@@ -12,16 +12,15 @@ A Computer Science student, Certified Data Scientist & Agentic AI Engineer. I bu
 ![](https://github-readme-stats.shion.dev/api?username=huzaifa-ansari-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=huzaifa-ansari-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game Repo View 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=huzaifa-ansari-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div> -->
 
 ---
 [![](https://komarev.com/ghpvc/?username=huzaifa-ansari-ai&base=2000&icon=0&colour=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies 
+![](https://github-profile-trophy.vercel.app/?username=huzaifa-ansari-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
