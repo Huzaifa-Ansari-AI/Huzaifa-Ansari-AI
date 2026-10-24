@@ -12,12 +12,8 @@ A Computer Science student, Certified Data Scientist & Agentic AI Engineer. I bu
 ![](https://github-readme-stats.shion.dev/api?username=huzaifa-ansari-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=huzaifa-ansari-ai&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 ## 🏆 GitHub Trophies 
-![](https://github-profile-trophy.vercel.app/?username=huzaifa-ansari-ai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=huzaifa-ansari-ai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!--Profile view-->
 [![](https://komarev.com/ghpvc/?username=huzaifa-ansari-ai&base=2000&icon=0&colour=0)](https://visitcount.itsvg.in)
