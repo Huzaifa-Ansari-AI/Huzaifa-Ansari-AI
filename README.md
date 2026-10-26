@@ -1,7 +1,7 @@
 # 💫Assalam-u-alaikum,     I'm Huzaifa Ansari   
 A Computer Science student, Certified Data Scientist & Agentic AI Engineer. I build intelligent AI applications and continuously explore the latest advancements in Agentic AI.<br><br>- 🤖 Experienced in **Agentic AI, LLM Applications, RAG, Prompt & Context Engineering, and AI Automation**.<br>- 🛠️ Working with **Python, OpenAI Agents SDK, LangChain, LangGraph, MCP, Vector Databases, Streamlit, Git, and GitHub**.<br>- 🚀 Currently focused on **building production-ready AI projects, and intelligent agents**.<br>- 🤝 Open to collaborating on Agentic AI, Machine Learning, and Open Source projects.<br>- ⚡ Passionate about building intelligent systems that solve real-world problems. 
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifa-ansari7001) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AIwithHuzaifaAnsari) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aiwithhuzaifaansari) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aiwithhuzaifaansari) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huzi7001@gmail.com) 
 
