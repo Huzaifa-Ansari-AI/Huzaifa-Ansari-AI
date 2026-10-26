@@ -1,4 +1,4 @@
-# 💫Assalam-u-alaikum,     I'm Huzaifa Ansari                           
+# 💫Assalam-u-alaikum,     I'm Huzaifa Ansari
 A Computer Science student, Certified Data Scientist & Agentic AI Engineer. I build intelligent AI applications and continuously explore the latest advancements in Agentic AI.<br><br>- 🤖 Experienced in **Agentic AI, LLM Applications, RAG, Prompt & Context Engineering, and AI Automation**.<br>- 🛠️ Working with **Python, OpenAI Agents SDK, LangChain, LangGraph, MCP, Vector Databases, Streamlit, Git, and GitHub**.<br>- 🚀 Currently focused on **building production-ready AI projects, and intelligent agents**.<br>- 🤝 Open to collaborating on Agentic AI, Machine Learning, and Open Source projects.<br>- ⚡ Passionate about building intelligent systems that solve real-world problems. 
 
 
@@ -19,7 +19,7 @@ A Computer Science student, Certified Data Scientist & Agentic AI Engineer. I bu
 [![](https://komarev.com/ghpvc/?username=huzaifa-ansari-ai&base=2000&icon=0&colour=0)](https://visitcount.itsvg.in)
 
 <!-- Snake Game Repo View 
-
+ 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div> -->
